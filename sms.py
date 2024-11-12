@@ -6,9 +6,9 @@ import requests
 from os import system
 from time import sleep
 from colorama import Fore,Style
-phone = ""
-ad = ""
-soyad = ""
+phone = "" #Hata vermemesi icin ekledim degerleri degistirmeyin. Kodu calistirdiginizde degiskenleri atamak icin input kismi olucaktir...
+ad = "" #Hata vermemesi icin ekledim degerleri degistirmeyin. Kodu calistirdiginizde degiskenleri atamak icin input kismi olucaktir...
+soyad = "" #Hata vermemesi icin ekledim degerleri degistirmeyin. Kodu calistirdiginizde degiskenleri atamak icin input kismi olucaktir...
 #Yazılımcıya Not : Kodun Alt Satırlarına Bak.
 while True:
     
